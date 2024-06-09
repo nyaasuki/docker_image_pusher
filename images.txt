@@ -1,13 +1,12 @@
-openresty
+openresty/openresty
 mysql
 redis
 phpmyadmin
-gitea
-uptime kuma
+gitea/gitea
+louislam/uptime-kuma
 postgresql
-metabase
+metabase/metabase
 adminer
-roundcube
-lsky-pro
-bitwarden
-act runner
+roundcube/roundcubemail
+halcyonazure/lsky-pro-docker
+gitea/act_runner
