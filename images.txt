@@ -1,14 +1,13 @@
-OpenResty
-MySQL
-Redis
-phpMyAdmin
-Gitea
-PHP 8
-Uptime Kuma
-PostgreSQL
-Metabase
-Adminer
-Roundcube
-Lsky-pro
-Bitwarden
-Act Runner
+openresty
+mysql
+redis
+phpmyadmin
+gitea
+uptime kuma
+postgresql
+metabase
+adminer
+roundcube
+lsky-pro
+bitwarden
+act runner
