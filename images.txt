@@ -1,5 +1,14 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+OpenResty
+MySQL
+Redis
+phpMyAdmin
+Gitea
+PHP 8
+Uptime Kuma
+PostgreSQL
+Metabase
+Adminer
+Roundcube
+Lsky-pro
+Bitwarden
+Act Runner
